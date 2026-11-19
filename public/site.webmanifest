@@ -1,0 +1,12 @@
+{
+  "name": "Joseph Benny Portfolio",
+  "short_name": "Joseph Benny",
+  "description": "Full-stack software engineer: Java and Spring Boot microservices, Angular and React, and production RAG on Azure.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e8f3fc",
+  "theme_color": "#1565c0",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
