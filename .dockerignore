@@ -1,0 +1,7 @@
+.git
+.github
+README.md
+docker-compose.yml
+netlify.toml
+vercel.json
+*.zip
