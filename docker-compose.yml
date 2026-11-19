@@ -1,0 +1,11 @@
+services:
+  portfolio:
+    build: .
+    image: joseph-benny-portfolio:latest
+    container_name: joseph-benny-portfolio
+    ports:
+      - "8080:8080"
+    restart: unless-stopped
+    read_only: true
+    tmpfs:
+      - /tmp
