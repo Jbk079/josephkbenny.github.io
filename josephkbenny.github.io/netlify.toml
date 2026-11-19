@@ -1,4 +1,0 @@
-# Netlify: static site, no build step. Headers live in public/_headers.
-[build]
-  publish = "public"
-  command = ""
